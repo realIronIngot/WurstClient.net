@@ -7,6 +7,6 @@ labels:
 Toggles RemoteView or makes it target a specific entity.
 
 ## Syntax
-`.rv [<player>]` shows you another players view. Affected by the Target selector in the ClickGUI.
+`.rv [<player>]` shows you another players view. Affected by the Target selector in the ClickGUI. (Entity needs to be in render distance.) Example use: ".rv bat", ".rv epicgamer123".
 
 ![using the RemoteView mod in the Wurst Client](https://cloud.githubusercontent.com/assets/10100202/8334345/b59f4cde-1a97-11e5-945e-d2de694c69c9.png)
